@@ -1,0 +1,16 @@
+{
+    "name": "wcs/poo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Florence Bouvier",
+            "email": "florencebres1@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "wcs\\": "src/"
+        }
+    }
+}
